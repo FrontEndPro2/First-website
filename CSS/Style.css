@@ -16,6 +16,12 @@ h1 ,h3{
    text-decoration: underline;
     font-style: italic;
 }
+.navbar ul li{
+    display: inline-block;
+    margin: 15px;
+    text-decoration: none;
+
+}
 .navbar ul{
    
     width: 50%;
