@@ -16,3 +16,16 @@ h1 ,h3{
    text-decoration: underline;
     font-style: italic;
 }
+.navbar ul{
+   
+    width: 50%;
+    background-color: #ceecec;
+    border-radius: 18px;
+    
+}
+.e{
+   margin: 10px;
+}
+.navbar ul li a{
+    text-decoration: none;
+}
